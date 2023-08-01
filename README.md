@@ -14,7 +14,7 @@ JS (JQuery),
 
 Also, I can use any library and write down those languages.
 
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 My personal life is always full of responsibility and requirements, which I don't possess at the moment, but I always conquer my problems with my problem-solving abilities, much like coding.
 
