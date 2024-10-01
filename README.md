@@ -16,6 +16,8 @@ Also, I can use any library and write down those languages.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={your-profile-or-repo-url}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
+
 My personal life is always full of responsibility and requirements, which I don't possess at the moment, but I always conquer my problems with my problem-solving abilities, much like coding.
 
 Im also teaching my skill to my love and my new apprentice. In a way, teaching is the best way to master a skill, am I right?
